@@ -68,4 +68,3 @@ endButton.onclick = () => {
     `;
   }
 }
-
