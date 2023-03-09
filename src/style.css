@@ -241,14 +241,13 @@ a {
   height: 450px;
   position: absolute;
   bottom: 1%;
-  right: 15%;
+  right: 20%;
 }
 
 #yellowBackground3 { 
   position: absolute;
-  bottom: 8%;
+  bottom: 10%;
   left: 12%;
-  grid-gap: 5px;
   background-color: #FEFC89;
   width: 700px;
   height: 200px;
@@ -257,7 +256,7 @@ a {
 
 .dataButtons1 {
   position: absolute;
-  bottom: 45%;
+  bottom: 48%;
   left: 20%;
   background: #48C26E;
   width: 360px;
@@ -269,7 +268,7 @@ a {
 
 .dataButtons2 {
   position: absolute;
-  bottom: 37%;
+  bottom: 40%;
   left: 20%;
   background: #48C26E;
   width: 360px;
@@ -280,7 +279,7 @@ a {
 }
 #okButton {
   position: absolute;
-  bottom: 30%;
+  bottom: 32%;
   left: 27%;
   background: #48C26E;
   width: 90px;
@@ -310,7 +309,7 @@ a {
   color: #000000;
   margin-left: 2%;
   font-size: 30px;
-  bottom: 53%;
+  bottom: 55%;
 }
 
 /* CONFIGURAÇÃO PÁGINA PARTICIPANTES */
@@ -1083,7 +1082,7 @@ h2 {
  #okButton2, #okButton3 { /*Configuração - Participantes e Modalidades*/
       bottom: 24%;
       left: 35%;
-  
+ }
   #selectTheOptions1 { /*Configuração - Olimpíadas 2016, Participantes e Modalidades*/
     font-size: 12px;
     bottom: 48%;
@@ -1093,6 +1092,7 @@ h2 {
       font-size: 12px;
       bottom: 62%;
   }
+
     
  /*------------Responsivo tabela - configuração geral-------------------------*/
   table {
@@ -1112,5 +1112,5 @@ th {
 th {
   font-size: 15px;
 }
-
 }
+

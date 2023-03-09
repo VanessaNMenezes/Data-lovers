@@ -1,7 +1,7 @@
 import {filterGender,filterData,filterAge,ascendingOrder,descendingOrder} from './data.js';
 import data from './data/athletes/athletes.js';
 
-const tableCreated = document.querySelector('#tableFilter');
+const tableCreated = document.getElementById('tableFilter');
 const genderSelector = document.querySelector('#selectGender');
 const ageSelector = document.querySelector('#selectAge');
 const orderSelector = document.querySelector('#selectOrder'); 
@@ -12,25 +12,21 @@ const arrayAthletes = data.athletes;
 
 endButton.onclick = () => {
 
-  if (genderSelector.value === "" || ageSelector.value === "" || orderSelector.value === "") {
-  selectAllOptions.innerHTML = "⚠️ Por favor, selecione todas as opções antes de clicar em OK"
-  }
-  else  if (genderSelector.value === "" || ageSelector.value !== "" || orderSelector.value !== "") {
+  if (ageSelector.value === "" || genderSelector.value === "" || orderSelector.value === "") {
     selectAllOptions.innerHTML = "⚠️ Por favor, selecione todas as opções antes de clicar em OK";
- 
+
   } else {
 
     const gender = filterGender(arrayAthletes, "gender", genderSelector.value);
     const filterOne = filterAge(gender, ageSelector.value);
     const filtered = filterData(filterOne, "gender", genderSelector.value);
-
     let sortedAthletes;
     if (orderSelector.value === 'a-z') {
       sortedAthletes = ascendingOrder(filtered);
     } else {
       sortedAthletes = descendingOrder(filtered);
-      }  
-
+    }
+  
     tableCreated.innerHTML =  `
       <table>
         <thead>
@@ -47,9 +43,9 @@ endButton.onclick = () => {
             <th>Medalha</th>
           </tr>
         </thead>
-        
         <tbody>
-          ${sortedAthletes.map(element => `
+  
+        ${sortedAthletes.map(element => `
             <tr>
               <td>${element.name}</td>
               <td>${element.gender}</td>
@@ -67,5 +63,5 @@ endButton.onclick = () => {
       </table>
     `;
   }
-}
 
+}
