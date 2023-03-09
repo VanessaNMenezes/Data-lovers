@@ -562,7 +562,7 @@ border-radius: 20px;
 #yellowBackground11 {
   position: absolute;
   top: 14%;
-  left: 10%;
+  left: 8%;
   background-color: #FEFC89;
   width: 1100px;
   height: 180px;
@@ -572,7 +572,7 @@ border-radius: 20px;
 #medalhas {
   position: absolute;
   top: 14%;
-  right: 7%;
+  right: 3%;
   width: 600px;
   height: 300px;
 }
@@ -602,18 +602,18 @@ border-radius: 20px;
 
 #yellowBackground13 {
   position: absolute;
-  bottom: 13%;
-  left: 10%;
+  bottom: 10%;
+  left: 8%;
   background-color: #FEFC89;
   width: 1100px;
-  height: 300px;
+  height: 280px;
   border-radius: 20px;
 }
 
 #yellowBackground14 {
   position: absolute;
   top: 48%;
-  right: 10%;
+  right: 8%;
   width: 450px;
   height: 600px;
 }
@@ -984,7 +984,6 @@ h2 {
   .copyright { /*CONFIGURAÇÃO GERAL*/
     font-size: 8pt;
   }
-
 }
 /*------------------------xxxxxxxxxxxxxxxxxxxxxxxxxxxx--------------*/
 @media (max-width: 480px) {

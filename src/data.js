@@ -1,22 +1,17 @@
-export function filterGender(data, key, value) {
-  const filter = data.filter((element) => element[key] === value);
-  return filter;
+export function sortDataByAthleteName(athletes , order) {
+  const sorted = [...athletes];
+  sorted.sort((a, b) => a.name.localeCompare(b.name))
+  if (order === "a-z" ) {
+    return sorted
+  } else {
+    return sorted.reverse()
+  }
 }
 
 export function filterData(data, key, value) {
   const filter = data.filter((element) => element[key] === value);
   return filter;
 }
-
-export function filterAge (data, range) {
-  const idades =   range.split("-")
-  const min = Number(idades[0])
-  const max = Number(idades[1])
-  console.table(min,max)
-  const grupo1 = data.filter(({ age }) => age  >= min && age <= max );
-  return grupo1;
-}
-
 export const ascendingOrder = (data) => {
   const order = data.sort(function (a, b) {
     if (a.name.toUpperCase() > b.name.toUpperCase()) {
@@ -33,22 +28,27 @@ export const descendingOrder = (data) => {
   return ascendingOrder(data).reverse()
 }
 
-
-export function sortDataByAthleteName(athletes , order) {
-  const sorted = [...athletes];
-  sorted.sort((a, b) => a.name.localeCompare(b.name))
-  if (order === "a-z" ) {
-    return sorted
-  } else {
-    return sorted.reverse()
-  }
-}
 export function filterCountry(dataArray, key, value) {
   return dataArray.filter(item => item[key] === value); // Essa função receberá três parâmetros: um array de objetos (data.athletes), uma chave ('team') e um valor (o nome do país selecionado pelo usuário). A função irá retornar um novo array contendo apenas os objetos que possuem o valor especificado para a chave correspondente.
 }
+
+export function filterGender(data, key, value) {
+  const filter = data.filter((element) => element[key] === value);
+  return filter;
+}
+
+export function filterAge (data, range) {
+  const idades =   range.split("-")
+  const min = Number(idades[0])
+  const max = Number(idades[1])
+  const grupo1 = data.filter(({ age }) => age  >= min && age <= max );
+  return grupo1;
+}
+
 export function filterMedal(dataArray, key, value) {
   return dataArray.filter(item => item[key] === value);
 }
+
 export function filterSport(dataArray, key, value) {
   return dataArray.filter(item => item[key] === value);
 }
@@ -66,5 +66,5 @@ export function brazilMedals (dataArray, key, value) { // Função que calcula a
     return acc;  
   }, 0);
 
-return Number((medalsOnlyFromBrazil * 100 / totalMedals).toFixed(2)); // Retorna a porcentagem formatada com 2 casas decimais. Calcula a porcentagem de medalhas ganhas pelo Brasil em relação ao total, dividindo as medalhas somente do Brasil, multiplicando por 100 e dividindo pelo total de medalhas.
+  return Number((medalsOnlyFromBrazil * 100 / totalMedals).toFixed(2)); // Retorna a porcentagem formatada com 2 casas decimais. Calcula a porcentagem de medalhas ganhas pelo Brasil em relação ao total, dividindo as medalhas somente do Brasil, multiplicando por 100 e dividindo pelo total de medalhas.
 }
