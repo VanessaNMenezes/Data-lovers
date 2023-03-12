@@ -5,17 +5,14 @@ const tableCreated = document.getElementById('tableFilter');
 const genderSelector = document.querySelector('#selectGender');
 const ageSelector = document.querySelector('#selectAge');
 const orderSelector = document.querySelector('#selectOrder'); 
-const endButton = document.getElementById("okButton2"); // manipulação de DOM, pegando o id do HTML do botão.
-const selectAllOptions = document.getElementById("selectTheOptions2"); // manipulação de DOM, pegando o id do HTML da mensagem para selecionar tudo.
+const endButton = document.getElementById("okButton2");
+const selectAllOptions = document.getElementById("selectTheOptions2"); 
 
 const arrayAthletes = data.athletes;
 
 endButton.onclick = () => {
 
-  if (genderSelector.value === "" || ageSelector.value === "" || orderSelector.value === "") {
-    selectAllOptions.innerHTML = "⚠️ Por favor, selecione todas as opções antes de clicar em OK";
-  }
-  else if (genderSelector.value === "" || ageSelector.value !== "" || orderSelector.value !== "") {
+  if (ageSelector.value === "" || orderSelector.value === "" || genderSelector.selectedIndex === 0) {
     selectAllOptions.innerHTML = "⚠️ Por favor, selecione todas as opções antes de clicar em OK";
  
   } else {
