@@ -145,7 +145,7 @@ Code, utilizando HTML5, CSS3 e JavaScript, e cumpre os seguintes requisitos:
 (nesta interface utilizamos a responsividade em telas menores de 1024px, 688px e 480px), ou
 seja, se adapta perfeitamente em telas de celulares, tablets, notebooks, seguindo o exemplo:
 
-<img src= "COLOCAR A IMEGM RESPONSIVO AQUI" width = "750px" height = "500px"/> 
+<img src= "src/responsivo.png" width = "750px" height = "500px"/> 
 
 * Permite ao usuário interagir com a interface para obter as informações que necessita
 * Mostra os dados filtrados e ordenados pelo usuário em uma tabela, como o exemplo abaixo:

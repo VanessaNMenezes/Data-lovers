@@ -467,7 +467,6 @@ a {
   bottom: 60%;
 }
 
-
 /* CONFIGURAÇÃO PÁGINA CURIOSIDADES */
 
 h4 {
@@ -529,7 +528,6 @@ border-radius: 20px;
   width: 450px;
   height: 700px;
 }
-
 
 /* CONFIGURAÇÃO PÁGINA TORNE-SE UM ATLETA */
 
@@ -594,7 +592,6 @@ border-radius: 20px;
   font-size: 17pt;
   text-align: center;
 }
-
 
 /*------------------------Implementação do responsivo*--------------*/
 @media (max-width: 1024px) {
@@ -945,7 +942,6 @@ h2 {
 }
 
 /*------------------------xxxxxxxxxxxxxxxxxxxx--------------*/
-
 @media (max-width: 688px) { 
   .logo { /*CONFIGURAÇÃO GERAL*/
     margin-top: 8px;
@@ -1428,8 +1424,6 @@ h2 {
       bottom: -10%;
   }
 
-
-
  /*------------Responsivo tabela - configuração geral-------------------------*/
   table {
     width: auto;
@@ -1449,4 +1443,3 @@ th {
   font-size: 15px;
 }
 }
-
