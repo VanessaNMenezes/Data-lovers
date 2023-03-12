@@ -11,7 +11,7 @@ const tableCreated = document.getElementById("tableFilter");
 
 const percentageBrazil = (brazilMedals(data.athletes , "team" , "Brazil"));
  
-calculationOfBrazilianMedalists.innerHTML = ` “Em 2016, A porcentagem total de atletas medalhistas brasileiros foi de ${percentageBrazil} % ” `
+calculationOfBrazilianMedalists.innerHTML = ` “Em 2016, A porcentagem total de atletas <br> medalhistas brasileiros foi de ${percentageBrazil} % ” `
 
 //para cada elemento "team" do banco de dados, foi criado um elemento <option> e que foi adicionado ao elemento <select> :
 const countrySet = new Set(); // Cria uma variável para receber o objeto Set. O objeto Set permite que você armazene valores únicos de qualquer tipo.
