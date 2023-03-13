@@ -1,8 +1,8 @@
-#  💚💛🧡 DATALOVERS 🧡💛💚 
+##  <div align="center"> 💚💛🧡 DATALOVERS 🧡💛💚 </div>
 
 # Olimpíadas Rio 2016 - TORNE-SE UM ATLETA 🥇💪 
 
-### Acesse o projeto completo [CLICANDO AQUI](https://vanessanmenezes.github.io/SAP009-data-lovers/)
+### <div align="center"> Acesse o projeto completo [CLICANDO AQUI](https://vanessanmenezes.github.io/SAP009-data-lovers/) </div>
 
 ***
 
@@ -103,8 +103,8 @@ atráves de protótipos de baixa e alta fidelidades, ambos construídos no figma
 Nesta interface, desenhamos a ideia do posicionamento de cada elemento nas páginas,
 uma a uma, de maneira simples, com baixo grau de detalhamento, e os identificamos.
 
-<img src= "src/prototipo-baixa1.png" width = "750px" height = "500px"/> 
-<img src= "src/prototipo-baixa2.png" width = "750px" height = "500px"/> 
+<img src= "src/prototipo-baixa1.png" width = "800px" height = "600px"/> 
+<img src= "src/prototipo-baixa2.png" width = "800px" height = "600px"/>
 
 
 ## PROTÓTIPO DE ALTA FIDELIDADE:
@@ -113,8 +113,8 @@ Nesta interface, aplicamos o posicionamento de cada elemento, pigmentamos com a
 palheta de cores escolhida, desenhamos com alto grau de detalhamento, apresentamos
 visualmente a funcionalidade e reproduzimos fielmente o produto final em termos de design.
 
-<img src= "src/prototipo-alta1.png" width = "750px" height = "500px"/> 
-<img src= "src/prototipo-alta2.png" width = "750px" height = "500px"/> 
+<img src= "src/prototipo-alta1.png" width = "800px" height = "600px"/> 
+<img src= "src/prototipo-alta2.png" width = "800px" height = "600px"/>
 
 
 ## Testes de usabilidade:
@@ -128,7 +128,7 @@ desenhos da interface de nossas primeiras duas páginas com três perguntas nort
 
  Através deste teste, obtivemos as seguintes respostas: 
 
- <div align="center"> <img src= "src/testes-de-usabilidade.png" width = "350px" height = "450px"/> </div>
+ <div align="center"> <img src= "src/teste-de-usabilidade.png" width = "350px" height = "450px"/> </div>
 
 E com base nos resultados acima, iteramos nossos desenhos de interface, aplicando
 modificação da fonte e posicionamento de alguns elementos, e a melhoria dos botões.
@@ -146,15 +146,15 @@ Code, utilizando HTML5, CSS3 e JavaScript, e cumpre os seguintes requisitos:
 (nesta interface utilizamos a responsividade em telas menores de 1024px, 688px e 480px), ou
 seja, se adapta perfeitamente em telas de celulares, tablets, notebooks, seguindo o exemplo:
 
-<div align="center"> <img src= "src/responsivo.png" width = "600px" height = "500px"/> </div>
+<div align="center"> <img src= "src/responsivo.png" width = "800px" height = "600px"/> </div>
 
 * Permite ao usuário interagir com a interface para obter as informações que necessita
 * Mostra os dados filtrados e ordenados pelo usuário em uma tabela, como o exemplo abaixo:
 
-<div align="center"> <img src="src/tabela.png" width = "750px" height = "400px"/> </div>
+<div align="center"> <img src="src/tabela.png" width = "850px" height = "500px"/> </div>
 
 ***
 
-## ESTE PROJETO FOI CRIADO E DESENVOLVIDO POR:
+### ESTE PROJETO FOI CRIADO E DESENVOLVIDO POR:
 
-## [DANILA RAMOS](https://github.com/DanilaRamos) 💛 & [VANESSA MENEZES](https://github.com/VanessaNMenezes) 💚
+### [DANILA RAMOS](https://github.com/DanilaRamos) 💛 & [VANESSA MENEZES](https://github.com/VanessaNMenezes) 💚
