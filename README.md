@@ -2,7 +2,7 @@
 
 # <div align="center"> Olimpíadas Rio 2016 - TORNE-SE UM ATLETA 🥇💪 </div>
 
-### <div align="center"> Acesse o projeto completo [CLICANDO AQUI](https://vanessanmenezes.github.io/SAP009-data-lovers/) </div>
+### <div align="center"> Acesse o projeto completo [CLICANDO AQUI](https://vanessanmenezes.github.io/SAP009-data-lovers/src) </div>
 
 ***
 
@@ -64,7 +64,7 @@ brasileiros. Além disso, também incluímos como **dados complementares**:
 * Todos os participantes e modalidades que competiram
 * As diversas características dos competidores (idade, gênero)
 * Curiosidades e recordes inéditos de atletas brasileiros em 2016
-* Informações sobre as paralímpiadas, focando em inclusão e diversidade
+* Informações sobre as paralimpíadas, focando em inclusão e diversidade
 * O caminho de onde e como se tornar um atleta olímpico (ONG’s, associações, federações) 
 * Destacar, em todas as páginas de manipulação dos dados, informações específicas da atuação do Brasil em 2016.
 
@@ -75,7 +75,7 @@ brasileiros. Além disso, também incluímos como **dados complementares**:
 Elaboramos seis histórias baseadas na escolha do público-alvo para elucidar os usuários em
 potencial e entender o fluxo de interações que os mesmos desejam executar. Após a compreensão
 da necessidade de cada um, todas foram estruturadas no projeto desenvolvido, incluindo um bônus,
-pensando especialmente em inclusão, disponibilizando informações sobre as Paralímpiadas, para
+pensando especialmente em inclusão, disponibilizando informações sobre as Paralimpíadas, para
 garantir que jovens com algum grau de deficiência tenham acesso também à prática esportiva.
 
 <img src= "src/historias-usuarios.png" width = "800px" height = "600px"/> 
