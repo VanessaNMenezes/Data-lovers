@@ -1,6 +1,6 @@
 ##  <div align="center"> 💚💛🧡 DATALOVERS 🧡💛💚 </div>
 
-# Olimpíadas Rio 2016 - TORNE-SE UM ATLETA 🥇💪 
+# <div align="center"> Olimpíadas Rio 2016 - TORNE-SE UM ATLETA 🥇💪 </div>
 
 ### <div align="center"> Acesse o projeto completo [CLICANDO AQUI](https://vanessanmenezes.github.io/SAP009-data-lovers/) </div>
 
@@ -66,7 +66,7 @@ brasileiros. Além disso, também incluímos como **dados complementares**:
 * Curiosidades e recordes inéditos de atletas brasileiros em 2016
 * Informações sobre as paralímpiadas, focando em inclusão e diversidade
 * O caminho de onde e como se tornar um atleta olímpico (ONG’s, associações, federações) 
-* Destacar, nas páginas de manipulação dos dados, informações específicas da atuação do Brasil em 2016.
+* Destacar, em todas as páginas de manipulação dos dados, informações específicas da atuação do Brasil em 2016.
 
 ***
 
@@ -128,7 +128,7 @@ desenhos da interface de nossas primeiras duas páginas com três perguntas nort
 
  Através deste teste, obtivemos as seguintes respostas: 
 
- <div align="center"> <img src= "src/teste-de-usabilidade.png" width = "350px" height = "450px"/> </div>
+ <div align="center"> <img src= "src/teste-de-usabilidade.png" width = "400px" height = "600px"/> </div>
 
 E com base nos resultados acima, iteramos nossos desenhos de interface, aplicando
 modificação da fonte e posicionamento de alguns elementos, e a melhoria dos botões.
@@ -146,15 +146,15 @@ Code, utilizando HTML5, CSS3 e JavaScript, e cumpre os seguintes requisitos:
 (nesta interface utilizamos a responsividade em telas menores de 1024px, 688px e 480px), ou
 seja, se adapta perfeitamente em telas de celulares, tablets, notebooks, seguindo o exemplo:
 
-<div align="center"> <img src= "src/responsivo.png" width = "800px" height = "600px"/> </div>
+<div align="center"> <img src= "src/responsivo.png" width = "800px" height = "700px"/> </div>
+
+
 
 * Permite ao usuário interagir com a interface para obter as informações que necessita
 * Mostra os dados filtrados e ordenados pelo usuário em uma tabela, como o exemplo abaixo:
 
-<div align="center"> <img src="src/tabela.png" width = "850px" height = "500px"/> </div>
+<div align="center"> <img src="src/tabela.png" width = "850px" height = "450px"/> </div>
 
 ***
 
-### ESTE PROJETO FOI CRIADO E DESENVOLVIDO POR:
-
-### [DANILA RAMOS](https://github.com/DanilaRamos) 💛 & [VANESSA MENEZES](https://github.com/VanessaNMenezes) 💚
+### 🧡 ESTE PROJETO FOI CRIADO E DESENVOLVIDO POR: [DANILA RAMOS](https://github.com/DanilaRamos) 💛 & [VANESSA MENEZES](https://github.com/VanessaNMenezes) 💚
