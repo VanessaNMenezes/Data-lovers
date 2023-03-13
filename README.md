@@ -128,7 +128,7 @@ desenhos da interface de nossas primeiras duas páginas com três perguntas nort
 
  Através deste teste, obtivemos as seguintes respostas: 
 
- <div align="center"> <img src= "src/teste-de-usabilidade.png" width = "400px" height = "600px"/> </div>
+ <div align="center"> <img src= "src/teste-de-usabilidade.png" width = "700px" height = "800px"/> </div>
 
 E com base nos resultados acima, iteramos nossos desenhos de interface, aplicando
 modificação da fonte e posicionamento de alguns elementos, e a melhoria dos botões.
@@ -146,9 +146,9 @@ Code, utilizando HTML5, CSS3 e JavaScript, e cumpre os seguintes requisitos:
 (nesta interface utilizamos a responsividade em telas menores de 1024px, 688px e 480px), ou
 seja, se adapta perfeitamente em telas de celulares, tablets, notebooks, seguindo o exemplo:
 
-<div align="center"> <img src= "src/responsivo.png" width = "800px" height = "700px"/> </div>
+<div align="center"> <img src= "src/responsivo.png" width = "800px" height = "750px"/> </div>
 
-
+***
 
 * Permite ao usuário interagir com a interface para obter as informações que necessita
 * Mostra os dados filtrados e ordenados pelo usuário em uma tabela, como o exemplo abaixo:
@@ -157,4 +157,4 @@ seja, se adapta perfeitamente em telas de celulares, tablets, notebooks, seguind
 
 ***
 
-### 🧡 ESTE PROJETO FOI CRIADO E DESENVOLVIDO POR: [DANILA RAMOS](https://github.com/DanilaRamos) 💛 & [VANESSA MENEZES](https://github.com/VanessaNMenezes) 💚
+#### 🧡 ESTE PROJETO FOI CRIADO E DESENVOLVIDO POR: [DANILA RAMOS](https://github.com/DanilaRamos) 💛 & [VANESSA MENEZES](https://github.com/VanessaNMenezes) 💚
