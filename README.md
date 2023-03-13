@@ -1,6 +1,6 @@
-#  &#x1F49A  &#x1F49B  &#x1F9E1 DATALOVERS  &#x1F9E1  &#x1F49B  &#x1F49A
+#  💚💛🧡 DATALOVERS 🧡💛💚 
 
-# Olimpíadas Rio 2016 - TORNE-SE UM ATLETA &#x1F947 &#x1F4AA
+# Olimpíadas Rio 2016 - TORNE-SE UM ATLETA 🥇💪 
 
 ### Acesse o projeto completo [CLICANDO AQUI](https://vanessanmenezes.github.io/SAP009-data-lovers/)
 
@@ -78,7 +78,7 @@ da necessidade de cada um, todas foram estruturadas no projeto desenvolvido, inc
 pensando especialmente em inclusão, disponibilizando informações sobre as Paralímpiadas, para
 garantir que jovens com algum grau de deficiência tenham acesso também à prática esportiva.
 
-<img src= "src/historias-usuarios.png" width = "750px" height = "500px"/> 
+<img src= "src/historias-usuarios.png" width = "800px" height = "600px"/> 
 
 
 ## Nível de EXPERIÊNCIA e INTERFACE 
@@ -96,6 +96,7 @@ atráves de protótipos de baixa e alta fidelidades, ambos construídos no figma
 
 <div align="center"> <img src= "src/paleta.png" width = "350px" height = "450px"/> </div>
 
+***
 
 ## PROTÓTIPO DE BAIXA FIDELIDADE:
 
@@ -145,16 +146,15 @@ Code, utilizando HTML5, CSS3 e JavaScript, e cumpre os seguintes requisitos:
 (nesta interface utilizamos a responsividade em telas menores de 1024px, 688px e 480px), ou
 seja, se adapta perfeitamente em telas de celulares, tablets, notebooks, seguindo o exemplo:
 
-<img src= "src/responsivo.png" width = "750px" height = "500px"/> 
+<div align="center"> <img src= "src/responsivo.png" width = "600px" height = "500px"/> </div>
 
 * Permite ao usuário interagir com a interface para obter as informações que necessita
 * Mostra os dados filtrados e ordenados pelo usuário em uma tabela, como o exemplo abaixo:
 
-<img src= "src/tabela.png" width = "750px" height = "500px"/> 
+<div align="center"> <img src="src/tabela.png" width = "750px" height = "400px"/> </div>
 
 ***
 
-# ESTE PROJETO FOI CRIADO E DESENVOLVIDO POR:
+## ESTE PROJETO FOI CRIADO E DESENVOLVIDO POR:
 
-# [DANILA RAMOS](https://github.com/DanilaRamos) &#x1F49B & [VANESSA MENEZES](https://github.com/VanessaNMenezes) &#x1F49A 
-***
+## [DANILA RAMOS](https://github.com/DanilaRamos) 💛 & [VANESSA MENEZES](https://github.com/VanessaNMenezes) 💚
