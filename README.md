@@ -157,4 +157,6 @@ seja, se adapta perfeitamente em telas de celulares, tablets, notebooks, seguind
 
 ***
 
-#### 🧡 ESTE PROJETO FOI CRIADO E DESENVOLVIDO POR: [DANILA RAMOS](https://github.com/DanilaRamos) 💛 & [VANESSA MENEZES](https://github.com/VanessaNMenezes) 💚
+#### 🥇 ESTE PROJETO FOI CRIADO E DESENVOLVIDO POR: [DANILA RAMOS](https://github.com/DanilaRamos) 💚 & [VANESSA MENEZES](https://github.com/VanessaNMenezes) 💛
+
+***
